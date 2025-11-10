@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yutong He"
-excerpt: "About me"
+title: "About me"
+excerpt: "Yutong He"
 author_profile: true
 redirect_from: 
   - /about/
