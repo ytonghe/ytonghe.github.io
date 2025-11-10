@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior student majoring in Data Science and Big Data Technology at Hunan University of Technology and Business. I've been granted a postgraduate recommendation and will be attending the College of Computer Science and Software Engineering at Shenzhen University.
+I'm currently a senior student majoring in Data Science and Big Data Technology at the [School of Advanced Interdisciplinary Studies](https://qyjc.hutb.edu.cn/),[Hunan University of Technology and Business](https://www.hutb.edu.cn/). 
+
+I've been granted a postgraduate recommendation and will be attending the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/) at [Shenzhen University](https://www.szu.edu.cn/).
