@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yutong He/Personal Homepage"
+title                    : "Yutong He(贺雨彤)"
 title_separator          : "-"
 name                     : &name "Yutong He"
 description              : &description "Yutong He's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
