@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "贺雨彤"
+title: "贺雨彤"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
