@@ -15,5 +15,5 @@ I've been granted a postgraduate recommendation and will be attending the [Colle
 You can find my CV here:[Yutong He's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Education
-### Hunan University of Technology and Business (2021 - 2025)
+### Hunan University of Technology and Business (2022 - 2026)
 Major：Data Science and Big Data Technology
