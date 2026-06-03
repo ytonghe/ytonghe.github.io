@@ -17,4 +17,5 @@ You can find my CV here:[Yutong He's Curriculum Vitae](../assets/Curriculum_Vita
 ## Education
 ### Hunan University of Technology and Business (2022 - 2026)
 Major：Data Science and Big Data Technology
+
 Award：Outstanding Graduate of Hunan Province
