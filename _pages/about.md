@@ -15,6 +15,9 @@ I've been granted a postgraduate recommendation and will be attending the [Colle
 You can find my CV here:[Yutong He's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 ## Education
+### Shenzhen University (2026 - Present)
+Major：Artificial Intelligence
+
 ### Hunan University of Technology and Business (2022 - 2026)
 Major：Data Science and Big Data Technology <br>
 Award：Outstanding Graduate of Hunan Province
