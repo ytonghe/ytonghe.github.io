@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "👋 About me"
-excerpt: "👋 About me"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,11 +15,11 @@ I am currently studying under the guidance of [Professor Qihua Zhou](https://qih
 ## 🎓 Education
 
 ### Shenzhen University (2026 - Present)
-🔬 Major：Artificial Intelligence
+Major：Artificial Intelligence
 
 ### Hunan University of Technology and Business (2022 - 2026)
-🔬 Major：Data Science and Big Data Technology <br>
-🏆 Honors & Awards：Outstanding Graduate of Hunan Province
+Major：Data Science and Big Data Technology <br>
+Award：Outstanding Graduate of Hunan Province
 
 
 ## 📬 Contact
