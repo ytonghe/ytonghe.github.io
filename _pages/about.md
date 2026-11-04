@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "👋 About me"
+excerpt: "👋 About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## 👋 About Me
 
 I'm currently a first-year master's student in Artificial Intelligence at the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/) at [Shenzhen University](https://www.szu.edu.cn/). My research interests include Machine Learning, Deep Learning, and Edge Artificial Intelligence.
 
@@ -26,6 +24,6 @@ I am currently studying under the guidance of [Professor Qihua Zhou](https://qih
 
 ## 📬 Contact
 
-- **Email:** [heyutong0220@163.com](mailto:heyutong0220@163.com)
+- **Email:** 2610100046@mails.szu.edu.cn
 - **GitHub:** [github.com/ytonghe](https://github.com/ytonghe)
 - **Location:** Shenzhen, China
